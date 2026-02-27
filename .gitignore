@@ -26,5 +26,4 @@ test_api2.py
 Thumbs.db
 .DS_Store
 
-# Frontend (separate repo)
-frontend/
+
