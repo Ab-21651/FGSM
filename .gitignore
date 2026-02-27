@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.env
+
+# MNIST dataset (do not submit)
+data/
+
+# Test scripts
+test_api.py
+test_api2.py
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Frontend (separate repo)
+frontend/
